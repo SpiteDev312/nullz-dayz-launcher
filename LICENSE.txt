@@ -1,0 +1,42 @@
+NullZ Launcher - Son Kullanıcı Lisansı
+Telif hakkı (c) 2026 NullZ. Tüm hakları saklıdır.
+
+NullZ Launcher ("Yazılım") ücretsiz olarak dağıtılan, kapalı kaynak bir yazılımdır.
+
+1. KULLANIM
+   Yazılımı kişisel ve ticari olmayan amaçlarla ücretsiz olarak indirebilir,
+   kurabilir ve kullanabilirsin.
+
+2. DAĞITIM
+   Yazılımı yalnızca bu GitHub deposundan ya da resmi web sitesinden
+   değiştirmeden paylaşabilirsin. Yazılımı satmak, başka bir adla yayınlamak
+   veya değiştirilmiş kopyalarını dağıtmak yasaktır.
+
+3. KISITLAMALAR
+   Yazılımı tersine mühendislik, kaynak koda dönüştürme (decompile) veya
+   değiştirme amacıyla incelemek, yürürlükteki yasaların açıkça izin verdiği
+   durumlar dışında yasaktır.
+
+4. GARANTİ YOKTUR
+   Yazılım "olduğu gibi" sunulur. Yazılımın kullanımından doğabilecek
+   doğrudan veya dolaylı hiçbir zarardan geliştirici sorumlu tutulamaz.
+
+5. ÜÇÜNCÜ TARAFLAR
+   DayZ, Bohemia Interactive a.s.'nin ticari markasıdır. Steam, Valve
+   Corporation'ın ticari markasıdır. Discord, Discord Inc.'in ticari
+   markasıdır. NullZ bu şirketlerin hiçbiriyle bağlantılı değildir.
+   IP konum verisi DB-IP (https://db-ip.com) tarafından CC BY 4.0
+   lisansıyla sağlanır.
+
+-----------------------------------------------------------------------
+
+NullZ Launcher - End User License
+Copyright (c) 2026 NullZ. All rights reserved.
+
+NullZ Launcher is free, closed-source software. You may download and use it
+for personal, non-commercial purposes. You may share it unmodified, only from
+this repository or the official website. Selling, renaming, modifying, or
+reverse engineering the software is prohibited except where the law expressly
+allows it. The software is provided "as is", without warranty of any kind.
+DayZ is a trademark of Bohemia Interactive a.s.; NullZ is not affiliated with
+Bohemia Interactive, Valve, or Discord.
